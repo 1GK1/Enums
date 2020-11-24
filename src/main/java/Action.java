@@ -26,6 +26,5 @@ public class Action implements ActionListener {
         System.out.printf("%d ACTION PERFORMED", numberToShow);
         System.out.println();
         Toolkit.getDefaultToolkit().beep();
-        // dasdfasdfas
     }
 }
